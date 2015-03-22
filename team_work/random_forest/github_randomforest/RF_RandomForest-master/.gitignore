@@ -1,0 +1,6 @@
+*.o
+src/RF_Utils
+doc/
+data/
+nbproject/
+utils/pov-semantic-segmentation

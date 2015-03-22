@@ -1,0 +1,18 @@
+Quick installation guide
+========================
+
+Dependecies
+-----------
+ * make
+ * g++
+ * opencv-2.4.6
+
+How to build?
+-------------
+ $ make
+
+How to run?
+-----------
+Take a look at RF help
+ $ cd src && ./RF_Utils -h
+
